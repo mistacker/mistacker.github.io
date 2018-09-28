@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mistacker|博客</title>
+  
+  <subtitle>孤帆远影碧空尽，唯见长江天际流。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-27T13:00:45.170Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>mistacker</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一天</title>
+    <link href="http://yoursite.com/2018/09/27/%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    <id>http://yoursite.com/2018/09/27/第一天/</id>
+    <published>2018-09-27T12:52:23.000Z</published>
+    <updated>2018-09-27T13:00:45.170Z</updated>
+    
+    <content type="html"><![CDATA[<p>台风又来了，不过这次向日本刮去，还是蛮高兴的，北京报有雨，到了晚上才下。今天说去书城，最后也没有去，如果明天没有雨，明天去趟书城。量化工作，克服懒惰。</p>]]></content>
+    
+    <summary type="html">
+    
+      下雨了，写下一篇日记，记录心情。
+    
+    </summary>
+    
+      <category term="心情" scheme="http://yoursite.com/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试test文件</title>
+    <link href="http://yoursite.com/2018/09/27/test/"/>
+    <id>http://yoursite.com/2018/09/27/test/</id>
+    <published>2018-09-27T12:51:41.481Z</published>
+    <updated>2018-09-27T12:51:41.449Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是测试内容</p><blockquote><p>先看看这个是否有效果显示<br>该文章是开启评论的</p></blockquote><p>这是运行的代码：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ sudo apt install python3</span><br></pre></td></tr></table></figure></p>]]></content>
+    
+    <summary type="html">
+    
+      这是该测试页面的描述，随便写的东西，只是为了让页面显示，看其作用。
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>中秋佳节，开心吃月饼</title>
+    <link href="http://yoursite.com/2018/09/27/index/"/>
+    <id>http://yoursite.com/2018/09/27/index/</id>
+    <published>2018-09-27T08:50:45.338Z</published>
+    <updated>2018-09-27T08:50:45.310Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;一年一度的中秋节又是如期而至。身在异乡的游客此时又到了望月思乡之时。遥想王维的“独在异乡为异客，每逢佳节倍思亲。”的诗句正描述了此刻游子的心情。月亮让人向往，关于月亮的神话尤其得多。每一种都有思亲之意。望游子内心都有寄托，不在迷茫，心想事成。幸福美满！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;emsp;&amp;emsp;一年一度的中秋节又是如期而至。身在异乡的游客此时又到了望月思乡之时。遥想王维的“独在异乡为异客，每逢佳节倍思亲。”的诗句正描述了此刻游子的心情。月亮让人向往，关于月亮的神话尤其得多。每一种都有思亲之意。望游子内心都有寄托，不在迷茫，心想事成。幸福美满
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/09/27/hello-world/"/>
+    <id>http://yoursite.com/2018/09/27/hello-world/</id>
+    <published>2018-09-27T08:49:33.590Z</published>
+    <updated>2018-09-27T08:49:33.562Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
